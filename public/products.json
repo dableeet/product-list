@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "description": "A high-end smartphone with all the latest features.",
+    "price": 899,
+    "image": "https://www.ustacaal.com/wp-content/uploads/2018/05/Smartphone-X-seri-02.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop Pro",
+    "description": "A powerful laptop for professionals.",
+    "price": 1299,
+    "image": "https://cdn.akakce.com/z/apple/macbook-pro-myd82tu-a-apple-m1-8-gb-256-gb-ssd-13-3-notebook.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Headphones Plus",
+    "description": "Noise-cancelling headphones with superior sound quality.",
+    "price": 299,
+    "image": "https://www.sennheiser.com.tr/cdn/shop/files/sennheiser-accentum-plus-beyaz_1200x.jpg?v=1725262632"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch 2.0",
+    "description": "Stylish and feature-packed smartwatch with long battery life.",
+    "price": 199,
+    "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty714/product/media/images/20230204/12/273352482/848889902/1/1_org.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Console Z",
+    "description": "Next-gen gaming console with 4K support and fast performance.",
+    "price": 499,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCdsedWDZzPxhG_vDuoWTAAXBKAQdOEtKaPg&s"
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with excellent sound quality.",
+    "price": 89,
+    "image": "https://i5.walmartimages.com/seo/Portable-Bluetooth-Speaker-Wireless-Speaker-10W-Loud-Stereo-Sound-Outdoor-Speakers-5-0-30H-Playtime-66ft-Range-Dual-Pairing-Home-Party_5c462825-76ea-4776-8265-bd743590a8ca.5ae3c55c65970f584371f215042688b0.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "4K Television",
+    "description": "Ultra HD 4K television with stunning clarity and vibrant colors.",
+    "price": 799,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wmv66iyiTiNu90dlNkE_hIJq7GiNJtDHJg&s"
+  },
+  {
+    "id": 8,
+    "name": "Tablet Air",
+    "description": "Lightweight tablet with an edge-to-edge display and powerful performance.",
+    "price": 599,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/132832-1_large.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wireless Earbuds",
+    "description": "Comfortable and compact wireless earbuds with noise-cancellation.",
+    "price": 129,
+    "image": "https://i5.walmartimages.com/seo/Wireless-Earbuds-Bluetooth-Headphones-5-0-True-Sport-Earphones-Built-in-Mic-Ear-Running-Headset-Earhooks-Charging-Case-Compatible-iPhone-14-Pro-Max-P_8b571978-e7a4-4c4c-b983-ecfa9aae8a82.f4d664418f4b81d7c8bb30cceba552e3.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "description": "Track your steps, heart rate, and sleep with this compact fitness tracker.",
+    "price": 99,
+    "image": "https://i5.walmartimages.com/seo/Fitbit-Inspire-2-Fitness-Tracker-Black_96b0eb36-17a8-4fde-a725-ff7cf9f5e675.43dfffa5bd5240f137e9c2f289ab339d.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Smart Home Hub",
+    "description": "Control your smart home devices from one central hub.",
+    "price": 149,
+    "image": "https://aeotechub.com/cdn/shop/files/Samsung_Smart-Home-Hub_01.webp?v=1717668355"
+  },
+  {
+    "id": 12,
+    "name": "Gaming Laptop",
+    "description": "High-performance gaming laptop with powerful GPU and fast processor.",
+    "price": 1599,
+    "image": "https://i5.walmartimages.com/seo/ASUS-ROG-Strix-15-6-R9-RTX-3060-Gaming-Laptop-FHD-AMD-Ryzen-9-5900HX-NVIDIA-GeForce-3060-16GB-RAM-1TB-SSD-Eclipse-Gray-Windows-10-Home-G513QM-WS96_8ca98551-8e80-431a-a0bf-2ae037b9e571.74a18e3919f93a362f7367ac2d157d84.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Mechanical Keyboard",
+    "description": "Durable mechanical keyboard with customizable RGB lighting.",
+    "price": 129,
+    "image": "https://m.media-amazon.com/images/I/71NMtTQkYUL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Drone 3000",
+    "description": "Capture stunning aerial footage with this 4K camera drone.",
+    "price": 999,
+    "image": "https://image.made-in-china.com/2f0j00omdlDnWycBqV/2-Axis-Eis-Electronic-Anti-Shake-Uav-Toys-Fly-3000-Meters-6K-Pixels-HD-Camera-Long-Range-Remote-Control-Brushless-GPS-Drone-Camera-Drones.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Digital Camera X",
+    "description": "Professional-grade digital camera with 50 MP resolution.",
+    "price": 1299,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnbvtFVFKRwSS0BTSYf8b5RyYVEUD0KcwAQ&s"
+  },
+  {
+    "id": 16,
+    "name": "VR Headset",
+    "description": "Immerse yourself in virtual reality with this high-end VR headset.",
+    "price": 399,
+    "image": "https://i5.walmartimages.com/asr/9883be63-9f33-441c-ae55-eee75573161c.765af5b81ef52496ef54b8b1565c4dc7.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Electric Scooter",
+    "description": "Eco-friendly electric scooter with a range of 30 miles.",
+    "price": 599,
+    "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/58097/uploads/urunresimleri/buyuk/xiaomi-elektrikli-scooter-3-lite-3a4-07.png"
+  },
+  {
+    "id": 18,
+    "name": "Portable Power Bank",
+    "description": "Charge your devices on the go with this 20,000mAh power bank.",
+    "price": 49,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZkhnccbJDXvFaMdTAEd00-JwfMndVPBw52w&s"
+  },
+  {
+    "id": 19,
+    "name": "Smart Thermostat",
+    "description": "Save energy with this programmable and app-controlled thermostat.",
+    "price": 199,
+    "image": "https://levoit.com/cdn/shop/products/aura-smart-thermostat-706723.jpg?v=1706049657"
+  },
+  {
+    "id": 20,
+    "name": "Action Camera",
+    "description": "Waterproof action camera with 4K recording capabilities.",
+    "price": 299,
+    "image": "https://m.media-amazon.com/images/I/61Ylqij832L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Noise-Cancelling Headphones",
+    "description": "Premium over-ear headphones with industry-leading noise cancellation.",
+    "price": 349,
+    "image": "https://d1b5h9psu9yexj.cloudfront.net/57440/Anker-s-Soundcore-Space-One_20230829-151132_full.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Gaming Chair",
+    "description": "Ergonomic gaming chair with adjustable lumbar support and headrest.",
+    "price": 249,
+    "image": "https://i5.walmartimages.com/seo/GTPLAYER-Gaming-Chair-with-Footrest-and-Ergonomic-Lumbar-Massage-Pillow-Faux-Leather-Office-Chair-White_86133479-a937-469b-bf4f-90a3f05e6b93.2550a814977ea264f357b78c66fc3c04.jpeg"
+  }
+]
